@@ -3,7 +3,7 @@
   "configVersion": 1,
   "workspaces": {
     "": {
-      "name": "vite-preact-tailwind",
+      "name": "visual-selector-builder",
       "dependencies": {
         "@tailwindcss/vite": "^4.1.18",
         "lucide-preact": "^0.562.0",
