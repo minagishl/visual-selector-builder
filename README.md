@@ -1,4 +1,4 @@
-## Visual Selector Builder
+# Visual Selector Builder
 
 Interactive tool to **visualize an HTML DOM tree** and **generate CSS/XPath selectors** by clicking nodes.
 
